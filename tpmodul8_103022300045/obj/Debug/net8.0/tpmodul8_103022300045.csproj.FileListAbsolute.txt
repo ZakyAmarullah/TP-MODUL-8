@@ -1,0 +1,15 @@
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\obj\Debug\net8.0\tpmodul8_103022300045.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\obj\Debug\net8.0\tpmodul8_103022300045.AssemblyInfoInputs.cache
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\obj\Debug\net8.0\tpmodul8_103022300045.AssemblyInfo.cs
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\obj\Debug\net8.0\tpmodul8_103022300045.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\obj\Debug\net8.0\tpmodul8_103022300045.sourcelink.json
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\bin\Debug\net8.0\tpmodul8_103022300045.exe
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\bin\Debug\net8.0\tpmodul8_103022300045.deps.json
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\bin\Debug\net8.0\tpmodul8_103022300045.runtimeconfig.json
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\bin\Debug\net8.0\tpmodul8_103022300045.dll
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\bin\Debug\net8.0\tpmodul8_103022300045.pdb
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\obj\Debug\net8.0\tpmodul8_103022300045.dll
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\obj\Debug\net8.0\refint\tpmodul8_103022300045.dll
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\obj\Debug\net8.0\tpmodul8_103022300045.pdb
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\obj\Debug\net8.0\tpmodul8_103022300045.genruntimeconfig.cache
+C:\Users\Muhammad Zaky A\source\repos\tpmodul8_103022300045\tpmodul8_103022300045\obj\Debug\net8.0\ref\tpmodul8_103022300045.dll
